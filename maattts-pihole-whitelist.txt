@@ -1,15 +1,22 @@
 #Custom PiHole Domain Whitelist by Matt
-
 ####################Personal Domains####################
-nordstrom.com
-nordstrom.net
-nordstrom.ca
-nordstrom.app
 mattfaulkner.net
 bluebotpc.com
 bluebotpc.net
 goobyfrs.net
+
+#Nordstrom App Domains
+nordstrom.com
+nordstrom.net
+nordstrom.ca
+nordstrom.app
+
+#Mozilla
 tracking-protection.cdn.mozilla.net
+
+#Linonde
+longview.linode.com
+
 
 ####################Common Google/Microsoft Domains####################
 #YouTube
