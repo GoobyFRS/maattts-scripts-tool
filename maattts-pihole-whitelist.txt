@@ -8,6 +8,7 @@
 pihole -w mattfaulkner.net goobyfrs.net bluebotpc.com bluebotpc.net
 pihole -w longview.linode.com
 pihole -w nordstrom.com nordstrom.net nordstrom.app nordstrom.ca
+pihole -w flightaware.com
 
 ###Google Cloud Services
 #Maps and Services
