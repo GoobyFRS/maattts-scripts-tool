@@ -1,9 +1,5 @@
 #This is a custom host file created by Matt/GoobyFRS to block some domains.
 #
-
-#Known Ad Providers
-0.0.0.0 33across.com
-
 #Domain Mistypes
 0.0.0.0 olayfans.com
 0.0.0.0 facebok.com
@@ -11,6 +7,9 @@
 0.0.0.0 twiter.com
 0.0.0.0 yutube.com
 0.0.0.0 youtuube.com
+
+#Known Ad Providers - Things I have Blocked
+0.0.0.0 33across.com
 0.0.0.0 comparecards.com
 0.0.0.0 fury.ca
 0.0.0.0 vortex.hulu.com
@@ -28,3 +27,4 @@
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 api-us.appodealx.com
 0.0.0.0 prebid.adnxs.com
+
