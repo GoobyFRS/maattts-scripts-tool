@@ -5,7 +5,7 @@ Run this script to add Matt's personal selection of domains to your whitelist. T
 import os
 print("*** Adding Matts Curated Domains to the PiHole Whitelist Now ***")
 
-domains = ["mattfaulkner.net", "bluebotpc.net", "bluebotpc.com", "goobyfrs.net", "nordstrom.com", "nordstrom.net", "nordstrom.ca", "nordstrom.app", "longview.linode.com", "flightaware.com", "gameservices.fh5.forzamotorsport.net", "e0.flightcdn.com"]
+domains = ["mattfaulkner.net", "bluebotpc.net", "bluebotpc.com", "goobyfrs.net", "nordstrom.com", "nordstrom.net", "nordstrom.ca", "nordstrom.app", "longview.linode.com", "flightaware.com", "gameservices.fh5.forzamotorsport.net", "e0.flightcdn.com", "	flightxml.flightaware.com", "protonmail.ch", "api.protonmail.ch", "forum.level1techs.com", "level1techs.com"]
 
 #cmd_whitelist = os.system("pihole -w " + domain)
 

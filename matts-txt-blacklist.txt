@@ -1,0 +1,30 @@
+#This is a custom host file created by Matt/GoobyFRS to block some domains.
+#
+
+#Known Ad Providers
+0.0.0.0 33across.com
+
+#Domain Mistypes
+0.0.0.0 olayfans.com
+0.0.0.0 facebok.com
+0.0.0.0 pronhub.com
+0.0.0.0 twiter.com
+0.0.0.0 yutube.com
+0.0.0.0 youtuube.com
+0.0.0.0 comparecards.com
+0.0.0.0 fury.ca
+0.0.0.0 vortex.hulu.com
+0.0.0.0 cdn-gl.imrworldwide.com
+0.0.0.0 hulu.hb.omtrdc.net
+0.0.0.0 cws-hulu.conviva.com
+0.0.0.0 device-api.urbanairship.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 api-us.appodealx.com
+0.0.0.0 prebid.adnxs.com
+0.0.0.0 data.flurry.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 unifiedbidding.ad.smaato.net
+0.0.0.0 launches.appsflyer.com
+0.0.0.0 api-us.appodealx.com
+0.0.0.0 prebid.adnxs.com
