@@ -2,20 +2,13 @@
 #Library of Functions created by Matt Faulkner, a python beginner.
 #
 #
-import os #linuxPing() 
+import os
+import subprocess
+import timedate
+import getpass
 
 def main():
 	#
-#
-def caseConverter():
-	xblankspacex = "*************************"
-	ogInput = input("String to Convert: ")
-	ccSelect = input("Convert to Upper or Lower? ")
-	if ccSelect.lower() == 'u' or "upper":
-		print(ogInput.upper())
-		#
-	elif ccSelect.lower() == 'l' or 'lower':
-		print(ogInput.lower())
 #
 def linuxPing():
 	hostname = input("Target")
@@ -25,6 +18,12 @@ def linuxPing():
 	else:
 		print(hostname + " is down.")
 #
-def windowPing():
-	#
-#
+def getCreds():
+	username = input("Username: ")
+	password1 = getpass()
+	print("Please enter your password one more time to prevent lockouts...")
+	password2 = getpass()
+	if password1 != password2:
+		print("Passwords did not match. Exiting...")
+		raise SystemExit
+		
