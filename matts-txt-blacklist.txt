@@ -45,3 +45,6 @@
 #0.0.0.0 storage.googleapis.com
 #0.0.0.0 snapchat-proxy.appspot.com
 
+#Others
+0.0.0.0 scroogetoken.org
+0.0.0.0 online-user-protector.com
