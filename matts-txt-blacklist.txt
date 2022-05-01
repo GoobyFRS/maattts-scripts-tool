@@ -48,3 +48,4 @@
 #Others
 0.0.0.0 scroogetoken.org
 0.0.0.0 online-user-protector.com
+0.0.0.0 spotscenered.info
